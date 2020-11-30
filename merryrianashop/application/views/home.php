@@ -25,22 +25,26 @@
     <div class="container-scroller">
       <!-- partial:partials/_horizontal-navbar.html -->
       <nav class="navbar horizontal-layout col-lg-12 col-12 p-0">
-        <div class="container d-flex flex-row nav-top">
-			<div class="top-links-container">
+      <div class="container d-flex flex-row nav-top ">
+      <div class="top-links-container ">
+      <p>Selamat Datang Di Merry Riana Shop !</p>
+			</div>
+			<div class="top-links-container ml-auto">
 				<div class="top-links container">
-					<div class="top-links-area" style="margin-top: 3px;">
+					<div class="top-links-area " style="margin-top: 3px;">
 						<ul class="links" style="text-align:right;display:flex; list-style:none;">
-							<li class="first"><a href="https://insight-unlimited.com/index.php/dailydeal/" title="Daily deal" style="color:red;">Daily deal</a></li>
-							<li><a href="https://insight-unlimited.com/index.php/customer/account/" title="Akun Saya">Akun Saya</a></li>
-							<li><a href="https://insight-unlimited.com/index.php/trackorder/index/" title="Lihat Status Order">Lihat Status Order</a></li>
-							<li><a href="https://insight-unlimited.com/index.php/wishlist/" title="Wishlist Saya">Wishlist Saya</a></li>
-							<li class=" last"><a href="https://insight-unlimited.com/index.php/customer/account/login/" title="Masuk">Masuk</a></li>
+							<li class="first pr-3"><a href="https://insight-unlimited.com/index.php/dailydeal/" title="Daily deal" style="color:red;">Daily deal</a></li>
+							<li class="pr-3"><a href="https://insight-unlimited.com/index.php/customer/account/" title="Akun Saya">Akun Saya</a></li>
+							<li class="pr-3"><a href="https://insight-unlimited.com/index.php/trackorder/index/" title="Lihat Status Order">Lihat Status Order</a></li>
+							<li class="pr-3"><a href="https://insight-unlimited.com/index.php/wishlist/" title="Wishlist Saya">Wishlist Saya</a></li>
+							<li class=" last pr-3"><a href="https://insight-unlimited.com/index.php/customer/account/login/" title="Masuk">Masuk</a></li>
 						</ul>
 					</div>
-					<p class="welcome-msg"><span class="pslogin-welcome-msg">Selamat Datang di INSIGHT UNLIMITED !</span> </p>
+					<!-- <p class="welcome-msg"><span class="pslogin-welcome-msg">Selamat Datang di INSIGHT UNLIMITED !</span> </p> -->
 					<div class="clearer"></div>
 				</div>
 			</div>
+      
 		</div>
         <div class="container d-flex flex-row nav-top">
           <div class="text-center navbar-brand-wrapper d-flex align-items-top">
