@@ -789,4 +789,25 @@
           color: #252C46;
           padding: 0 7px; }
 
+.title-text-home-line {
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid #ae0001;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+.title-text-home {
+	background :#f3f4fa;
+}
+
+.title-text-home a {
+	text-decoration: none;
+    background-color: #f3f4fa;
+    padding: 0 10px;
+    color: #414042;
+    font-size: 26px;
+    font-family: 'Poppins', sans-serif;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -1,0 +1,19 @@
+.title-text-home-line {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #ae0001;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+.title-text-home {
+	background :#f3f4fa;
+}
+
+.title-text-home a {
+    background-color: #fff;
+    padding: 0 10px;
+    color: #414042;
+    font-size: 26px;
+    font-family: 'Poppins', sans-serif;
+}
