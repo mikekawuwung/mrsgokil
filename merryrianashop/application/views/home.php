@@ -6,20 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Star Admin Premium Bootstrap Admin Dashboard Template</title>
     <!-- plugins:css -->
-    <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/src/assets/vendors/iconfonts/mdi/css/materialdesignicons.min.css">
-    <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/src/assets/vendors/iconfonts/puse-icons-feather/feather.css">
-    <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/src/assets/vendors/css/vendor.bundle.base.css">
-    <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/src/assets/vendors/css/vendor.bundle.addons.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/vendors/iconfonts/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/vendors/iconfonts/puse-icons-feather/feather.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/vendors/css/vendor.bundle.base.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/vendors/css/vendor.bundle.addons.css">
     <!-- endinject -->
     <!-- plugin css for this page -->
     <!-- End plugin css for this page -->
     <!-- inject:css -->
-    <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/src/assets/css/shared/style.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/css/shared/style.css">
     <!-- endinject -->
     <!-- Layout styles -->
-    <link rel="stylesheet" href="<?php echo base_url(); ?>/assets/src/assets/css/demo_2/style.css">
+    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/css/demo_2/style.css">
     <!-- End Layout styles -->
-    <link rel="shortcut icon" href="<?php echo base_url(); ?>/assets/src/assets/images/favicon.png" />
+    <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/src/assets/images/favicon.png" />
   </head>
   <body>
     <div class="container-scroller">
@@ -49,9 +49,9 @@
         <div class="container d-flex flex-row nav-top">
           <div class="text-center navbar-brand-wrapper d-flex align-items-top">
             <a class="navbar-brand brand-logo" href="index.html">
-              <img src="<?php echo base_url(); ?>/assets/src/assets/images/logo_2.svg" alt="logo" /> </a>
+              <img src="<?php echo base_url(); ?>assets/Logo_MRS_PNG-02.png" alt="logo" /> </a>
             <a class="navbar-brand brand-logo-mini" href="index.html">
-              <img src="<?php echo base_url(); ?>/assets/src/assets/images/logo-mini.svg" alt="logo" /> </a>
+              <img src="<?php echo base_url(); ?>assets/Logo_MRS_PNG-02.png" alt="logo" /> </a>
           </div>
           <div class="navbar-menu-wrapper d-flex align-items-center">
             <form action="form-action" class="d-none d-sm-block">
@@ -79,7 +79,7 @@
                   <div class="dropdown-divider"></div>
                   <a class="dropdown-item preview-item">
                     <div class="preview-thumbnail">
-                      <img src="<?php echo base_url(); ?>/assets/src/assets/images/faces/face10.jpg" alt="image" class="img-sm profile-pic"> </div>
+                      <img src="<?php echo base_url(); ?>assets/src/assets/images/faces/face10.jpg" alt="image" class="img-sm profile-pic"> </div>
                     <div class="preview-item-content flex-grow py-2">
                       <p class="preview-subject ellipsis font-weight-medium text-dark">Marian Garner </p>
                       <p class="font-weight-light small-text"> The meeting is cancelled </p>
@@ -87,7 +87,7 @@
                   </a>
                   <a class="dropdown-item preview-item">
                     <div class="preview-thumbnail">
-                      <img src="<?php echo base_url(); ?>/assets/src/assets/images/faces/face12.jpg" alt="image" class="img-sm profile-pic"> </div>
+                      <img src="<?php echo base_url(); ?>assets/src/assets/images/faces/face12.jpg" alt="image" class="img-sm profile-pic"> </div>
                     <div class="preview-item-content flex-grow py-2">
                       <p class="preview-subject ellipsis font-weight-medium text-dark">David Grey </p>
                       <p class="font-weight-light small-text"> The meeting is cancelled </p>
@@ -95,7 +95,7 @@
                   </a>
                   <a class="dropdown-item preview-item">
                     <div class="preview-thumbnail">
-                      <img src="<?php echo base_url(); ?>/assets/src/assets/images/faces/face1.jpg" alt="image" class="img-sm profile-pic"> </div>
+                      <img src="<?php echo base_url(); ?>assets/src/assets/images/faces/face1.jpg" alt="image" class="img-sm profile-pic"> </div>
                     <div class="preview-item-content flex-grow py-2">
                       <p class="preview-subject ellipsis font-weight-medium text-dark">Travis Jenkins </p>
                       <p class="font-weight-light small-text"> The meeting is cancelled </p>
@@ -143,7 +143,7 @@
                 </div>
               </li>
               <li class="nav-item dropdown d-none d-xl-inline-block">
-                <a class="nav-link dropdown-toggle" id="UserDropdown" href="#" data-toggle="dropdown" aria-expanded="false">Hello, Stephen <img class="img-xs rounded-circle ml-3" src="<?php echo base_url(); ?>/assets/src/assets/images/faces/face8.jpg" alt="Profile image"> </a>
+                <a class="nav-link dropdown-toggle" id="UserDropdown" href="#" data-toggle="dropdown" aria-expanded="false">Hello, Stephen <img class="img-xs rounded-circle ml-3" src="<?php echo base_url(); ?>assets/src/assets/images/faces/face8.jpg" alt="Profile image"> </a>
                 <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="UserDropdown">
                   <a class="dropdown-item p-0">
                     <div class="d-flex border-bottom">
@@ -494,7 +494,7 @@
               <div class="col-12 grid-margin d-none d-lg-block">
                 <div class="intro-banner">
                   <div class="banner-image">
-                    <img src="<?php echo base_url(); ?>/assets/src/assets/images/dashboard/banner_img.png" alt="banner image">
+                    <img src="<?php echo base_url(); ?>assets/src/assets/images/dashboard/banner_img.png" alt="banner image">
                   </div>
                   <div class="content-area">
                     <h3 class="mb-0">Welcome back, Stephen!</h3>
@@ -798,7 +798,7 @@
                   <div class="card-body no-gutter">
                     <div class="list-item">
                       <div class="preview-image">
-                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>/assets/src/assets/images/faces/face10.jpg" alt="profile image">
+                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>assets/src/assets/images/faces/face10.jpg" alt="profile image">
                       </div>
                       <div class="content">
                         <div class="d-flex align-items-center">
@@ -822,7 +822,7 @@
                     </div>
                     <div class="list-item">
                       <div class="preview-image">
-                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>/assets/src/assets/images/faces/face13.jpg" alt="profile image">
+                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>assets/src/assets/images/faces/face13.jpg" alt="profile image">
                       </div>
                       <div class="content">
                         <div class="d-flex align-items-center">
@@ -846,7 +846,7 @@
                     </div>
                     <div class="list-item">
                       <div class="preview-image">
-                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>/assets/src/assets/images/faces/face1.jpg" alt="profile image">
+                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>assets/src/assets/images/faces/face1.jpg" alt="profile image">
                       </div>
                       <div class="content">
                         <div class="d-flex align-items-center">
@@ -870,7 +870,7 @@
                     </div>
                     <div class="list-item">
                       <div class="preview-image">
-                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>/assets/src/assets/images/faces/face11.jpg" alt="profile image">
+                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>assets/src/assets/images/faces/face11.jpg" alt="profile image">
                       </div>
                       <div class="content">
                         <div class="d-flex align-items-center">
@@ -894,7 +894,7 @@
                     </div>
                     <div class="list-item">
                       <div class="preview-image">
-                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>/assets/src/assets/images/faces/face12.jpg" alt="profile image">
+                        <img class="img-sm rounded-circle" src="<?php echo base_url(); ?>assets/src/assets/images/faces/face12.jpg" alt="profile image">
                       </div>
                       <div class="content">
                         <div class="d-flex align-items-center">
@@ -975,22 +975,22 @@
     </div>
     <!-- container-scroller -->
     <!-- plugins:js -->
-    <script src="<?php echo base_url(); ?>/assets/src/assets/vendors/js/vendor.bundle.base.js"></script>
-    <script src="<?php echo base_url(); ?>/assets/src/assets/vendors/js/vendor.bundle.addons.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/vendors/js/vendor.bundle.base.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/vendors/js/vendor.bundle.addons.js"></script>
     <!-- endinject -->
     <!-- Plugin js for this page-->
     <!-- End plugin js for this page-->
     <!-- inject:js -->
-    <script src="<?php echo base_url(); ?>/assets/src/assets/js/shared/off-canvas.js"></script>
-    <script src="<?php echo base_url(); ?>/assets/src/assets/js/shared/hoverable-collapse.js"></script>
-    <script src="<?php echo base_url(); ?>/assets/src/assets/js/shared/misc.js"></script>
-    <script src="<?php echo base_url(); ?>/assets/src/assets/js/shared/settings.js"></script>
-    <script src="<?php echo base_url(); ?>/assets/src/assets/js/shared/todolist.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/js/shared/off-canvas.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/js/shared/hoverable-collapse.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/js/shared/misc.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/js/shared/settings.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/js/shared/todolist.js"></script>
     <!-- endinject -->
     <!-- Custom js for this page-->
-    <script src="<?php echo base_url(); ?>/assets/src/assets/js/shared/widgets.js"></script>
-    <script src="<?php echo base_url(); ?>/assets/src/assets/js/demo_2/dashboard.js"></script>
-    <script src="<?php echo base_url(); ?>/assets/src/assets/js/demo_2/script.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/js/shared/widgets.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/js/demo_2/dashboard.js"></script>
+    <script src="<?php echo base_url(); ?>assets/src/assets/js/demo_2/script.js"></script>
     <!-- End custom js for this page-->
   </body>
 </html>
