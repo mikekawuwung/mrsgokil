@@ -20,6 +20,7 @@
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/css/shared/style.css">
 	<!-- endinject -->
 	<!-- Layout styles -->
+	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/css/demo_2/mrshop.css">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/css/demo_2/style.css">
 	<!-- End Layout styles -->
   <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/Logo_MRS_PNG-03.png" />
