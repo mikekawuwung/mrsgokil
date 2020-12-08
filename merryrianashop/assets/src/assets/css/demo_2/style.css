@@ -465,7 +465,7 @@
           border: none; } }
       .navbar.horizontal-layout .nav-bottom .page-navigation > .nav-item {
         line-height: 1;
-        width: 16.66%;
+        width: 13.66%;
         text-align: center; }
         @media (max-width: 768px) {
           .navbar.horizontal-layout .nav-bottom .page-navigation > .nav-item {

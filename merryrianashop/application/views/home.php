@@ -90,7 +90,7 @@
             <h1 class="title-text-home-line" style="width:95%">
 
                 <span class="title-text-home">
-                    <a href="" title="New Release">NEW RELEASE</a>
+                    <a href="" title="New Release"><b>NEW RELEASE</b></a>
                 </span>
 
 
@@ -267,7 +267,7 @@
             <h1 class="title-text-home-line" style="width:95%">
 
                 <span class="title-text-home">
-                    <a href="" title="New Release">RECOMMENDED</a>
+                    <a href="" title="New Release"><b>RECOMMENDED</b></a>
                 </span>
 
 
@@ -439,6 +439,35 @@
 
             </div>
             <!--/.Carousel Wrapper-->
+			
+			<div class="row mt-5 mb-5">
+				<div class="col-md-2">
+					<span class="title-text-aff"><b>AFILIASI : </b></span>
+				</div>
+				<div class="col-md-9">
+					<div id="recommended" class="carousel slide carousel-multi-item pt-3 pb-4" data-ride="carousel">
+						<div class="carousel-inner" role="listbox">
+							<div class="carousel-item active">
+							<img class="pl-2 pr-2 img-fluid" src="<?php echo base_url(); ?>assets/src/assets/images/aff/jne.png" width="100">
+							<img class="pl-5 pr-5 img-fluid" src="<?php echo base_url(); ?>assets/src/assets/images/aff/tokped.png" width="250">
+							<img class="pl-2 pr-2 img-fluid" src="<?php echo base_url(); ?>assets/src/assets/images/aff/bukalapak.png" width="150">
+							<img class="pl-2 pr-2 img-fluid" src="<?php echo base_url(); ?>assets/src/assets/images/aff/lazada.png" width="100">
+
+                       
+
+							</div>
+                
+							<div class="carousel-item">
+							<img class="pl-2 pr-2 img-fluid" src="<?php echo base_url(); ?>assets/src/assets/images/aff/blibli.png" width="100">
+		
+   
+
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
 
 
         </div>

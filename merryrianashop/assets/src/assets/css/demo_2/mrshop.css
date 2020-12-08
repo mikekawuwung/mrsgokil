@@ -19,6 +19,15 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.title-text-aff {
+	text-decoration: none;
+    background-color: #f3f4fa;
+    padding: 0 10px;
+    color: #414042;
+    font-size: 26px;
+    font-family: 'Poppins', sans-serif;
+}
+
 /* arrow css */
 
 .carousel-control-prev-icon,

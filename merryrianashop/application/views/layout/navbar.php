@@ -32,7 +32,7 @@
 				<div class="text-center navbar-brand-wrapper d-flex align-items-top">
 					<a class="navbar-brand brand-logo" href="index.html">
 						<img src="<?php echo base_url(); ?>assets/Logo_MRS_PNG-03.png" alt="logo"
-							style="widht:175px; height:130px; margin-top: -40px" /> </a>
+							style="widht:175px; height:130px; margin-top: -50px" /> </a>
 					<a class="navbar-brand brand-logo-mini" href="index.html">
 						<img src="<?php echo base_url(); ?>assets/Logo_MRS_PNG-03.png" alt="logo" /> </a>
 				</div>
@@ -51,7 +51,7 @@
 							<a class="nav-link count-indicator dropdown-toggle" id="notificationDropdown" href="#"
 								data-toggle="dropdown">
 								<i class="mdi mdi-cart"></i>
-								<span class="count bg-success">4</span>
+								<span class="count bg-danger"><?= $jumlah; ?></span>
 							</a>
 							<div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list pb-0"
 								aria-labelledby="notificationDropdown">
@@ -124,7 +124,7 @@
 						<li class="nav-item">
 							<a href="index.html" class="nav-link">
 								<i class="link-icon mdi mdi-airplay"></i>
-								<span class="menu-title">Terbaru</span>
+								<span class="menu-title">Beranda</span>
 							</a>
 						</li>
 						<li class="nav-item">
@@ -137,136 +137,7 @@
 							<a href="#" class="nav-link">
 								<i class="link-icon mdi mdi-flag-outline"></i>
 								<span class="menu-title">Fashion</span>
-								<i class="menu-arrow"></i>
 							</a>
-							<div class="submenu">
-								<div class="col-group-wrapper row">
-									<div class="col-group col-md-4">
-										<div class="row">
-											<div class="col-12">
-												<p class="category-heading"></p>
-											</div>
-											<div class="col-md-6">
-												<ul class="submenu-item">
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/accordions.html">Accordion</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/buttons.html">Buttons</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/badges.html">Badges</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/breadcrumbs.html">Breadcrumbs</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/dropdowns.html">Dropdown</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/modals.html">Modals</a>
-													</li>
-												</ul>
-											</div>
-											<div class="col-md-6">
-												<ul class="submenu-item">
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/progress.html">Progress bar</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/pagination.html">Pagination</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/tabs.html">Tabs</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/typography.html">Typography</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/tooltips.html">Tooltip</a>
-													</li>
-												</ul>
-											</div>
-										</div>
-									</div>
-									<div class="col-group col-md-4">
-										<div class="row">
-											<div class="col-12">
-												<p class="category-heading">Advanced Elements</p>
-											</div>
-											<div class="col-md-6">
-												<ul class="submenu-item">
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/dragula.html">Dragula</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/carousel.html">Carousel</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/clipboard.html">Clipboard</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/context-menu.html">Context Menu</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/loaders.html">Loader</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/slider.html">Slider</a>
-													</li>
-												</ul>
-											</div>
-											<div class="col-md-6">
-												<ul class="submenu-item">
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/tour.html">Tour</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/popups.html">Popup</a>
-													</li>
-													<li class="nav-item">
-														<a class="nav-link" href="pages/ui-features/notifications.html">Notification</a>
-													</li>
-												</ul>
-											</div>
-										</div>
-									</div>
-									<div class="col-group col-md-2">
-										<p class="category-heading">Table</p>
-										<ul class="submenu-item">
-											<li class="nav-item">
-												<a class="nav-link" href="pages/tables/basic-table.html">Basic Table</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/tables/data-table.html">Data Table</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/tables/js-grid.html">Js-grid</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/tables/sortable-table.html">Sortable Table</a>
-											</li>
-										</ul>
-									</div>
-									<div class="col-group col-md-2">
-										<p class="category-heading">Icons</p>
-										<ul class="submenu-item">
-											<li class="nav-item">
-												<a class="nav-link" href="pages/icons/flag-icons.html">Flag Icons</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/icons/font-awesome.html">Font Awesome</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/icons/simple-line-icon.html">Simple Line Icons</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/icons/themify.html">Themify Icons</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
 						</li>
 						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
@@ -405,6 +276,29 @@
 										</ul>
 									</div>
 								</div>
+							</div>
+						</li>
+						<li class="nav-item">
+							<a href="#" class="nav-link">
+								<i class="link-icon mdi mdi-cube-outline"></i>
+								<span class="menu-title ">Apps</span>
+								<i class="menu-arrow "></i>
+							</a>
+							<div class="submenu ">
+								<ul class="submenu-item ">
+									<li class="nav-item ">
+										<a class="nav-link " href="pages/apps/email.html ">Email</a>
+									</li>
+									<li class="nav-item ">
+										<a class="nav-link " href="pages/apps/calendar.html ">Calendar</a>
+									</li>
+									<li class="nav-item ">
+										<a class="nav-link " href="pages/apps/todo.html ">Todo List</a>
+									</li>
+									<li class="nav-item ">
+										<a class="nav-link " href="pages/apps/gallery.html ">Gallery</a>
+									</li>
+								</ul>
 							</div>
 						</li>
 						<li class="nav-item">
