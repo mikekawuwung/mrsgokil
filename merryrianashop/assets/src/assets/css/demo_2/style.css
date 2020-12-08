@@ -465,7 +465,7 @@
           border: none; } }
       .navbar.horizontal-layout .nav-bottom .page-navigation > .nav-item {
         line-height: 1;
-        width: 16.66%;
+        width: 13.66%;
         text-align: center; }
         @media (max-width: 768px) {
           .navbar.horizontal-layout .nav-bottom .page-navigation > .nav-item {
@@ -790,91 +790,3 @@
           color: #252C46;
           padding: 0 7px; }
 
-.title-text-home-line {
-    width: 100%;
-    text-align: center;
-    border-bottom: 2px solid #ae0001;
-    line-height: 0.1em;
-    margin: 10px 0 20px;
-}
-
-.title-text-home {
-	background :#f3f4fa;
-}
-
-.title-text-home a {
-	text-decoration: none;
-    background-color: #f3f4fa;
-    padding: 0 10px;
-    color: #414042;
-    font-size: 26px;
-    font-family: 'Poppins', sans-serif;
-}
-
-/*# sourceMappingURL=style.css.map */
-
-/* arrow css */
-
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
-  background-image: none;
-}
-
-.carousel-control-next-icon:after
-{
-  content: '>';
-  font-size: 35px;
-  color: #ae0001;
-}
-
-.carousel-control-prev-icon:after {
-  content: '<';
-  font-size: 35px;
-  color: #ae0001;
-}
-/* arrow css */
-
-/* search box */
-
-.search-box {
-  display: inline-block;
-  width: 40%;
-  border-radius: 20px;
-  padding: 4px 55px 4px 15px;
-  position: relative;
-  background: #fff;
-  border: 1px solid #ddd;
-  -webkit-transition: all 200ms ease-in-out;
-  -moz-transition: all 200ms ease-in-out;
-  transition: all 200ms ease-in-out;
-}
-.search-box.hovered, .search-box:hover, .search-box:active {
-  border: 1px solid #aaa;
-}
-.search-box input[type=text] {
-  border: none;
-  box-shadow: none;
-  display: inline-block;
-  padding: 0;
-  background: transparent;
-}
-.search-box input[type=text]:hover, .search-box input[type=text]:focus, .search-box input[type=text]:active {
-  box-shadow: none;
-}
-.search-box .search-nav {
-  position: absolute;
-  right: 2px;
-  top: 2px;
-  color: #aaa;
-  border-radius: 3px;
-  font-size: 21px;
-  padding: 8px 10px 1px;
-  -webkit-transition: all 200ms ease-in-out;
-  -moz-transition: all 200ms ease-in-out;
-  transition: all 200ms ease-in-out;
-}
-.search-box .search-btn:hover {
-  color: #fff;
-  background-color: #8FBE00;
-}
-/* search box */
