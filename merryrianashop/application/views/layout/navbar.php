@@ -123,43 +123,43 @@
 					<ul class="nav page-navigation">
 						<li class="nav-item">
 							<a href="index.html" class="nav-link">
-								<i class="link-icon mdi mdi-airplay"></i>
+								<!-- <i class="link-icon mdi mdi-airplay"></i> -->
 								<span class="menu-title">Home</span>
 							</a>
 						</li>
 						<li class="nav-item">
 							<a href="pages/samples/widgets.html" class="nav-link">
-								<i class="link-icon mdi mdi-apple-safari"></i>
+								<!-- <i class="link-icon mdi mdi-apple-safari"></i> -->
 								<span class="menu-title">Book</span>
 							</a>
 						</li>
 						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
-								<i class="link-icon mdi mdi-flag-outline"></i>
+								<!-- <i class="link-icon mdi mdi-flag-outline"></i> -->
 								<span class="menu-title">Clothing</span>
 							</a>
 						</li>
 						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
-								<i class="link-icon mdi mdi-flag-outline"></i>
+								<!-- <i class="link-icon mdi mdi-flag-outline"></i> -->
 								<span class="menu-title">CD/DVD</span>
 							</a>
 						</li>
 						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
-								<i class="link-icon mdi mdi-flag-outline"></i>
+								<!-- <i class="link-icon mdi mdi-flag-outline"></i> -->
 								<span class="menu-title">F&B</span>
 							</a>
 						</li>
 						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
-								<i class="link-icon mdi mdi-flag-outline"></i>
+								<!-- <i class="link-icon mdi mdi-flag-outline"></i> -->
 								<span class="menu-title">Other Merch</span>
 							</a>
 						</li>
 						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
-								<i class="link-icon mdi mdi-flag-outline"></i>
+								<!-- <i class="link-icon mdi mdi-flag-outline"></i> -->
 								<span class="menu-title">Digital Learning</span>
 							</a>
 						</li>

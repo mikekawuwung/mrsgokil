@@ -23,6 +23,6 @@
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/css/demo_2/mrshop.css">
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/src/assets/css/demo_2/style.css">
 	<!-- End Layout styles -->
-  <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/Logo_MRS_PNG-03.png" />
+  <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/logo tab.png" />
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 </head>
