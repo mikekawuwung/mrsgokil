@@ -37,7 +37,7 @@
 						<img src="<?php echo base_url(); ?>assets/Logo_MRS_PNG-03.png" alt="logo" /> </a>
 				</div>
 				<div class="navbar-menu-wrapper d-flex align-items-center">
-        <div class='search-box'>
+        <div class='search-box mb-3'>
 					<form action="form-action" class="d-none d-sm-block">
           <input class='form-control' placeholder='Pencarian...' type='text'>
           <button class='btn btn-link search-nav'>
@@ -124,205 +124,44 @@
 						<li class="nav-item">
 							<a href="index.html" class="nav-link">
 								<i class="link-icon mdi mdi-airplay"></i>
-								<span class="menu-title">Beranda</span>
+								<span class="menu-title">Home</span>
 							</a>
 						</li>
 						<li class="nav-item">
 							<a href="pages/samples/widgets.html" class="nav-link">
 								<i class="link-icon mdi mdi-apple-safari"></i>
-								<span class="menu-title">Buku</span>
+								<span class="menu-title">Book</span>
 							</a>
 						</li>
 						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
 								<i class="link-icon mdi mdi-flag-outline"></i>
-								<span class="menu-title">Fashion</span>
+								<span class="menu-title">Clothing</span>
 							</a>
 						</li>
 						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
-								<i class="link-icon mdi mdi-content-copy"></i>
-								<span class="menu-title">Lainnya</span>
-								<i class="menu-arrow"></i>
+								<i class="link-icon mdi mdi-flag-outline"></i>
+								<span class="menu-title">CD/DVD</span>
 							</a>
-							<div class="submenu">
-								<div class="col-group-wrapper row">
-									<div class="col-group col-md-3">
-										<p class="category-heading">User Pages</p>
-										<ul class="submenu-item">
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/login.html">Login</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/login-2.html">Login 2</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/register.html">Register</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/register-2.html">Register 2</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/lock-screen.html">Lockscreen</a>
-											</li>
-										</ul>
-									</div>
-									<div class="col-group col-md-3">
-										<p class="category-heading">Error Pages</p>
-										<ul class="submenu-item">
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/error-400.html">400</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/error-404.html">404</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/error-500.html">500</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/error-505.html">505</a>
-											</li>
-										</ul>
-									</div>
-									<div class="col-group col-md-3">
-										<p class="category-heading">E-commerce</p>
-										<ul class="submenu-item">
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/invoice.html">Invoice</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/pricing-table.html">Pricing Table</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/samples/orders.html">Orders</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
 						</li>
 						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
-								<i class="link-icon mdi mdi-chart-line"></i>
-								<span class="menu-title">Forms</span>
-								<i class="menu-arrow"></i>
+								<i class="link-icon mdi mdi-flag-outline"></i>
+								<span class="menu-title">F&B</span>
 							</a>
-							<div class="submenu">
-								<div class="col-group-wrapper row">
-									<div class="col-group col-md-3">
-										<p class="category-heading">Basic Elements</p>
-										<ul class="submenu-item">
-											<li class="nav-item">
-												<a class="nav-link" href="pages/forms/basic_elements.html">Basic Elements</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/forms/advanced_elements.html">Advanced Elements</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/forms/validation.html">Validation</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/forms/wizard.html">Wizard</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/forms/text_editor.html">Text Editor</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/forms/code_editor.html">Code Editor</a>
-											</li>
-										</ul>
-									</div>
-									<div class="col-group col-md-3">
-										<p class="category-heading">Charts</p>
-										<ul class="submenu-item">
-											<li class="nav-item">
-												<a class="nav-link" href="pages/charts/chartjs.html">Chart Js</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/charts/morris.html">Morris</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/charts/flot-chart.html">Flaot</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/charts/google-charts.html">Google Chart</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/charts/sparkline.html">Sparkline</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/charts/c3.html">C3 Chart</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/charts/chartist.html">Chartist</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/charts/justGage.html">JustGage</a>
-											</li>
-										</ul>
-									</div>
-									<div class="col-group col-md-3">
-										<p class="category-heading">Maps</p>
-										<ul class="submenu-item">
-											<li class="nav-item">
-												<a class="nav-link" href="pages/maps/mapeal.html">Mapeal</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/maps/vector-map.html">Vector Map</a>
-											</li>
-											<li class="nav-item">
-												<a class="nav-link" href="pages/maps/google-maps.html">Google Map</a>
-											</li>
-										</ul>
-									</div>
-								</div>
-							</div>
 						</li>
-						<li class="nav-item">
+						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
-								<i class="link-icon mdi mdi-cube-outline"></i>
-								<span class="menu-title ">Apps</span>
-								<i class="menu-arrow "></i>
+								<i class="link-icon mdi mdi-flag-outline"></i>
+								<span class="menu-title">Other Merch</span>
 							</a>
-							<div class="submenu ">
-								<ul class="submenu-item ">
-									<li class="nav-item ">
-										<a class="nav-link " href="pages/apps/email.html ">Email</a>
-									</li>
-									<li class="nav-item ">
-										<a class="nav-link " href="pages/apps/calendar.html ">Calendar</a>
-									</li>
-									<li class="nav-item ">
-										<a class="nav-link " href="pages/apps/todo.html ">Todo List</a>
-									</li>
-									<li class="nav-item ">
-										<a class="nav-link " href="pages/apps/gallery.html ">Gallery</a>
-									</li>
-								</ul>
-							</div>
 						</li>
-						<li class="nav-item">
+						<li class="nav-item mega-menu">
 							<a href="#" class="nav-link">
-								<i class="link-icon mdi mdi-cube-outline"></i>
-								<span class="menu-title ">Apps</span>
-								<i class="menu-arrow "></i>
+								<i class="link-icon mdi mdi-flag-outline"></i>
+								<span class="menu-title">Digital Learning</span>
 							</a>
-							<div class="submenu ">
-								<ul class="submenu-item ">
-									<li class="nav-item ">
-										<a class="nav-link " href="pages/apps/email.html ">Email</a>
-									</li>
-									<li class="nav-item ">
-										<a class="nav-link " href="pages/apps/calendar.html ">Calendar</a>
-									</li>
-									<li class="nav-item ">
-										<a class="nav-link " href="pages/apps/todo.html ">Todo List</a>
-									</li>
-									<li class="nav-item ">
-										<a class="nav-link " href="pages/apps/gallery.html ">Gallery</a>
-									</li>
-								</ul>
-							</div>
 						</li>
 					</ul>
 				</div>
